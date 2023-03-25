@@ -43,15 +43,15 @@
 .inputLogin:focus{
     outline: none;
 }
-.index-lembrar{
+input[type="range"]{
     background: #f1c0fe;
     appearance: none;
-    border-radius: 50%;
+    border-radius: 23px;
 }
-.index-lembrar::-webkit-slider-thumb{
+input[type="range"]::-webkit-slider-thumb{
     appearance: none;
-    height: 1.43rem;
-    width: 1.43rem;
+    height: 15px;
+    width: 15px;
     border-radius: 50%;
     background: white;
 }

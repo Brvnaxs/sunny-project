@@ -1,14 +1,14 @@
 @media (max-width: 600px) {
     .index-form input{
-        height: 50px;
-        width: 252px;
+        height: 35px;
+        width: 237px;
     }
     .index-button-ir{
-        height: 50px;
-        width: 252px;
+        height: 35px;
+        width: 237px;
     }
-    .index-lembrar{
-        width: 2.37rem;
-        height: 1.25rem;
+    input[type='range']{
+        width: 39.24px;
+        height: 18.57px;
     }
 }
