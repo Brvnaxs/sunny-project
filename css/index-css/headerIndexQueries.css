@@ -1,0 +1,11 @@
+@media  (max-width: 600px) {
+    .planet{
+        margin-top: -5px;
+        align-self: center;
+    }
+    .title{
+        align-self: center;
+        margin-bottom: 1.62rem;
+    }
+
+}

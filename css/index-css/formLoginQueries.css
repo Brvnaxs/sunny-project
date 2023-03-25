@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+    .index-form input{
+        height: 50px;
+        width: 252px;
+    }
+    .index-button-ir{
+        height: 50px;
+        width: 252px;
+    }
+    .index-lembrar{
+        width: 2.37rem;
+        height: 1.25rem;
+    }
+}

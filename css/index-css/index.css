@@ -1,0 +1,11 @@
+body{
+    background-color: var(--index-background-color);
+    background-image: url('/assets/index-assets/Group81.png');
+    background-position: bottom;
+    background-repeat: repeat-x, repeat-x;
+    animation: nuvens-background-index 5s linear infinite;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}

@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+:root{
+    /*global fonts:*/
+    --font-lato: 'Lato', sans-serif;
+    --font-atma:font-family: 'Lato', sans-serif;
+    /*index:*/
+    --index-background-color: #F7E4BC;
+    --index-buttonIR-color: #F5A598;
+    --index-font-family: Lato;
+    
+}

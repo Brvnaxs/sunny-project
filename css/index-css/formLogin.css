@@ -1,0 +1,57 @@
+.index-form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.index-form input{
+    border-radius: 30px;
+    margin: 0.93rem;
+    align-self: center;
+    background-color: radial-gradient(86.8% 325.5% at 8% 0%, #FFFFFF 0%, #FFFCE8 100%);
+    padding: 0.312rem;
+    border: none;
+    box-shadow: 0px 7px 22px 0px rgba(212, 70, 241, 0.55);
+}
+.index-config-senha{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 0.75rem;
+    align-self: center;
+    font-family: var(--font-lato);
+    justify-content: center;
+}
+.index-config-senha p{
+    margin: 0.625rem;
+}
+.index-link-cadastro{
+    margin-bottom: 1.87rem;
+    font-size: 0.75rem;
+    align-self: center;
+    font-family: var(--font-lato);
+}
+.index-button-ir{
+    background: var(--index-buttonIR-color);
+    border: none;
+    border-radius: 1.43rem;
+    color: white;
+    font-weight: 0.875rem;
+    align-self: center;
+    margin: 0.937rem;
+    box-shadow: 0px 7px 22px 0px rgba(212, 70, 241, 0.55);
+}
+.inputLogin:focus{
+    outline: none;
+}
+.index-lembrar{
+    background: #f1c0fe;
+    appearance: none;
+    border-radius: 50%;
+}
+.index-lembrar::-webkit-slider-thumb{
+    appearance: none;
+    height: 1.43rem;
+    width: 1.43rem;
+    border-radius: 50%;
+    background: white;
+}
