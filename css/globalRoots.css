@@ -3,13 +3,20 @@ a{
     color: inherit;
     cursor: pointer;
 }
+.cursor-pointer{
+    cursor: pointer;
+}
 :root{
     /*global fonts:*/
     --font-lato: 'Lato', sans-serif;
-    --font-atma:font-family: 'Lato', sans-serif;
+    --font-atma: 'Atma', cursive;
     /*index:*/
     --index-background-color: #F7E4BC;
     --index-buttonIR-color: #F5A598;
     --index-font-family: Lato;
-    
+    /*menu:*/
+    --menu-background-color: #8D99D9;
+    --menu-options-cards-color: #F8E8FB;
+    /*Tema letras:*/
+    --tema-letras-background-color: #F7E4BC;
 }

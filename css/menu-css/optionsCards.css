@@ -1,0 +1,23 @@
+.options-card{
+    border-radius: 10px;
+    background-color: var(--menu-options-cards-color);
+    font-family: var(--font-lato);
+    box-shadow: 0px 7px 22px 0px rgba(204, 143, 216, 0.55);
+    margin: 5px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    cursor: pointer;
+}
+.options-card h2{
+    font-size: 0.87rem;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+.options-card p{
+    font-size: 0.62rem;
+}
